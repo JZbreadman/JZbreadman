@@ -1,5 +1,6 @@
 ### About me 🖥️
 ![🙍‍♂️](https://visitor-badge.laobi.icu/badge?page_id=JZbreadman.JZbreadman) 
+
 ![Andro](https://images-ext-1.discordapp.net/external/nBMyQhhVopWJlbGUOWRT9qaI9eYHchBMt_J8kwD5xP0/%3Fv%3D1/https/cdn.discordapp.com/emojis/743355363977461802.gif)
 
 > My codes are mostly spaghetti, that's why I keep my repos private. 🍝
