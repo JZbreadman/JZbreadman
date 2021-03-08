@@ -1,13 +1,13 @@
-## About me 🖥️
 ![🙍‍♂️](https://visitor-badge.laobi.icu/badge?page_id=JZbreadman.JZbreadman) 
+<p align="center">  
+Nice to meet you! <img src="https://media.tenor.com/images/42a11391005f5a457312ec8a8c8f1989/tenor.gif" alt="BlobWave" height="25" style="vertical-align:top; margin:4px">
 
-<p align="center">
-  Nice to meet you! <img src="https://media.tenor.com/images/42a11391005f5a457312ec8a8c8f1989/tenor.gif" alt="BlobWave" height="25" style="vertical-align:top; margin:4px">
 <p align="center">  
 <img src= "https://cdn.discordapp.com/emojis/743355363977461802.gif?v=1">
 
 > My codes are mostly spaghetti, that's why I keep my repos private. 🍝
 
+## About me 
 - 🔭 I’m currently working on **Stolas** (Information bot for the My Heroes SEA Discord server). 🎮
 - 🌱 I’m currently learning _basic bioinformatics programming_ in Python. 🐍
 - 🤔 I’m looking for help with _Python data handling_. 📅
