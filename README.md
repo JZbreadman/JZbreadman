@@ -3,8 +3,8 @@
 
 <p align="center">
   Nice to meet you! 👋
-
-![Andro](https://images-ext-1.discordapp.net/external/nBMyQhhVopWJlbGUOWRT9qaI9eYHchBMt_J8kwD5xP0/%3Fv%3D1/https/cdn.discordapp.com/emojis/743355363977461802.gif)
+<p align="center">  
+<img src= "https://cdn.discordapp.com/emojis/743355363977461802.gif?v=1">
 
 > My codes are mostly spaghetti, that's why I keep my repos private. 🍝
 
