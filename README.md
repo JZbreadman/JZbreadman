@@ -9,3 +9,5 @@
 - 🤔 I’m looking for help with _Python data handling_. 📅
 - 📫 Reach me on: [Discord](https://discordapp.com/users/491889727176441856) 📡
 - 😄 Pronouns: He/Him 👻
+
+Nice to meet you! 👋
