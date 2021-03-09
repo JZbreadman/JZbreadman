@@ -8,7 +8,7 @@ Nice to meet you! <img src="https://media.tenor.com/images/42a11391005f5a457312e
 > My codes are mostly spaghetti, that's why I keep my repos private. 🍝
 
 ## About me 
-```
+```json
 {
     "About me":
     [
