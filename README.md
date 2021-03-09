@@ -3,7 +3,7 @@
 Nice to meet you! <img src="https://media.tenor.com/images/42a11391005f5a457312ec8a8c8f1989/tenor.gif" alt="BlobWave" height="25" style="vertical-align:top; margin:4px">
 
 <p align="center">  
-<img src= "https://cdn.discordapp.com/emojis/743355363977461802.gif?v=1">
+<img src= "https://media.discordapp.net/attachments/788984527040020480/818462383277080626/df2d092072795ad417f9cba1ff32690196da2254_raw.gif">
 
 > My codes are mostly spaghetti, that's why I keep my repos private. 🍝
 
