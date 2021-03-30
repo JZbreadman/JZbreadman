@@ -33,5 +33,5 @@ Nice to meet you! <img src="https://media.tenor.com/images/42a11391005f5a457312e
 <img src="https://cdn.discordapp.com/attachments/816583823356985394/818693340567568384/1200px-JSON_vector_logo.png" alt="JSON" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.discordapp.com/attachments/816583823356985394/818391982569029662/mdb.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JZbreadman&show_icons=true&locale=en&theme=dark&layout=compact" alt="Bwead"/>
