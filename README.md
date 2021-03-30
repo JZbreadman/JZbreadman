@@ -35,5 +35,3 @@ Nice to meet you! <img src="https://media.tenor.com/images/42a11391005f5a457312e
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JZbreadman&show_icons=true&locale=en&theme=dark&layout=compact" alt="Bwead"/>
-<align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JZbreadman&show_icons=true&locale=en&layout=compact&theme=dark" alt="Bwead"/>
