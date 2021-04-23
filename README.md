@@ -1,9 +1,7 @@
 ![🙍‍♂️](https://visitor-badge.laobi.icu/badge?page_id=JZbreadman.JZbreadman) 
-<p align="center">  
-Nice to meet you! <img src="https://media.tenor.com/images/42a11391005f5a457312ec8a8c8f1989/tenor.gif" alt="BlobWave" height="25" style="vertical-align:top; margin:4px">
 
 <p align="center">  
-<img src= "https://media.discordapp.net/attachments/788984527040020480/818462383277080626/df2d092072795ad417f9cba1ff32690196da2254_raw.gif">
+<img src= "https://github.com/JZbreadman/JZbreadman/blob/main/lagtrain.gif?raw=true">
 
 > My codes are mostly spaghetti, that's why I keep my repos private. 🍝
 
