@@ -1,9 +1,7 @@
 ![🙍‍♂️](https://visitor-badge.laobi.icu/badge?page_id=JZbreadman.JZbreadman) 
 
-<p align="center"> 
-Welcome to my page!
 <p align="center">  
-<img src= "https://github.com/JZbreadman/JZbreadman/blob/main/kanowelcome.gif?raw=true">
+<img src= "https://github.com/JZbreadman/JZbreadman/blob/main/CirnoKeyboard.gif?raw=true">
 
 ## :bust_in_silhouette: About me 
 ```json
@@ -35,6 +33,4 @@ Welcome to my page!
   <img src="https://github-readme-stats.vercel.app/api?username=JZbreadman&show_icons=true&locale=en&theme=dark&layout=compact" alt="Bwead"/>
 
 <p align="center"> 
-Have a nice day!
-<p align="center">  
-<img src= "https://github.com/JZbreadman/JZbreadman/blob/main/KanoSway.gif?raw=true">
+<img src= "https://github.com/JZbreadman/JZbreadman/blob/main/ShionStare.gif?raw=true">
