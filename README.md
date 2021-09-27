@@ -9,7 +9,7 @@
     "About me":
     [
         {
-            "🔭 Working on": "Stolas (Information bot for the My Heroes SEA Discord server) 🎮",
+            "🔭 Working on": null,
             "🌱 Learning": "basic bioinformatics programming in Python 🐍",
             "🤔 Looking for help with": "Python data handling 📅",
             "📫 Reach me on Discord": "JZbreadman#1659 📡",
