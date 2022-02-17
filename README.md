@@ -10,8 +10,8 @@
     [
         {
             "🔭 Working on": null,
-            "🌱 Learning": "basic bioinformatics programming in Python 🐍",
-            "🤔 Looking for help with": "Python data handling 📅",
+            "🌱 Learning": "Basic molecular dynamics simulations 📅",
+            "🤔 Looking for help with": "Data handling with Python 🐍",
             "📫 Reach me on Discord": "JZbreadman#1659 📡",
             "😄 Pronouns": "He/Him 👻"
         }
