@@ -12,7 +12,6 @@
             "🔭 Working on": null,
             "🌱 Learning": "Basic molecular dynamics simulations 📅",
             "🤔 Looking for help with": "Data handling with Python 🐍",
-            "📫 Reach me on Discord": "JZbreadman#1659 📡",
             "😄 Pronouns": "He/Him 👻"
         }
     ]
